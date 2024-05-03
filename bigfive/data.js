@@ -209,7 +209,26 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+          "yaw": -0.7354632692399274,
+          "pitch": 0.1687396249146289,
+          "title": "五大內部",
+          "text": "此處為五大內部<div><div>有販售&nbsp; 華語流行音樂、k-pop、</div><div>j-pop。</div><div>也有 電影DVD。</div></div>"
+        },
+        {
+          "yaw": 0.16324971887866369,
+          "pitch": -0.015594871439198243,
+          "title": "流行音樂區",
+          "text": "此區販售流行音樂"
+        },
+        {
+          "yaw": 2.4045488287400447,
+          "pitch": 0.2216168749843206,
+          "title": "電影和動畫DVD區",
+          "text": "此區販售電影及動畫的DVD<div><br></div>"
+        }
+	  ]
     }
   ],
   "name": "五大唱片行",
